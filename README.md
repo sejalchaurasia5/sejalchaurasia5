@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Sejal Chaurasia! 👩‍💻
+💻 Python & Full-Stack Developer | Django | React | API Integration
 
-<!--
-**sejalchaurasia5/sejalchaurasia5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 What I Do:
+✅ Build Scalable Web Applications using Django & React.js.
+✅ API Integration for dynamic data flow.
+✅ CRUD Applications for data management.
+✅ Responsive Websites using HTML, CSS, Bootstrap.
 
-Here are some ideas to get you started:
+💼 My Projects:
+💡 Weather App: Real-time weather data using OpenWeather API.
+💡 Amazon Clone: Full-stack e-commerce site using Django.
+💡 Personal Portfolio: My own website showcasing my projects.
+💡 CRUD Application: Manage users/products in Django.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to Reach Me:
+Email: sejalchaurasia914@gmail.com
+GitHub Profile
+Contact- +917303321576
